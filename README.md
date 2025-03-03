@@ -13,4 +13,4 @@ Para mais informações, consulte a documentação no próprio [projecto.pl](htt
 
 
 # Testes 🧪
-Os testes contidos no ficheiro [testes_publicos.plt](https://github.com/afsc19/Estrelas-LP/blob/main/testes_publicos.plt) são os testes públicos fornecidos pelo professor, acrescentados de alguns da minha autoria (devidamente identificados).
+Os testes contidos no ficheiro [testes_publicos.plt](https://github.com/afsc19/Estrelas-LP/blob/main/testes_publicos.plt) são os testes públicos fornecidos pelo professor, com a adição de alguns da minha autoria (devidamente identificados).
